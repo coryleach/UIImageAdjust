@@ -1,0 +1,3 @@
+UIImageAdjust
+
+These UIImage extensions are for example and they have serious optimization issues. Some of these will not run well on the iPhone without modification.
